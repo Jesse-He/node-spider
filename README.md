@@ -3,6 +3,13 @@
 
 # 实用方法
 
+* npm install
+* npm link
+
+* 在控制台输入 node-spider 根据提示进行操作即可
+
+# 案例
+
 *  Examples:
 *  想要爬取的网站地址
 *  例如：http://www.ss.pku.edu.cn/index.php/newscenter/news/3482
